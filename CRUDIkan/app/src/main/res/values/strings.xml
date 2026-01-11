@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarShowroom</string>
+    <string-array name="items_option">
+        <item>Change ( Update )</item>
+        <item>Delete ( Remove Stock )</item>
+        <item>Cancel</item>
+    </string-array>
+</resources>
